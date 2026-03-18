@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/device_oneplus_sm8150-common-12.1.x/DeviceSettings/DeviceSettings.iml" filepath="$PROJECT_DIR$/device_oneplus_sm8150-common-12.1.x/DeviceSettings/DeviceSettings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/device_oneplus_sm8150-common-12.1.x/camera_helper/camera_helper.iml" filepath="$PROJECT_DIR$/device_oneplus_sm8150-common-12.1.x/camera_helper/camera_helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/device_oneplus_sm8150-common-12.1.x.iml" filepath="$PROJECT_DIR$/.idea/device_oneplus_sm8150-common-12.1.x.iml" />
+    </modules>
+  </component>
+</project>
